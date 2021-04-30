@@ -1,0 +1,1 @@
+Install Pyqt5 and Python 3 to run this browser program
